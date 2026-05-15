@@ -53,13 +53,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParamChawla&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamChawla&layout=compact&theme=tokyonight" height="180em"/>
-</p>
 
 ---
 
