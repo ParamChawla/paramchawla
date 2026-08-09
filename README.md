@@ -115,7 +115,7 @@ KPI monitoring dashboard with Power BI visualization and PLC/system monitoring c
 <img src="https://raw.githubusercontent.com/ParamChawla/ParamChawla/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
-> ⚙️ Snake animation needs a one-time GitHub Actions setup (see note at the bottom) — it auto-generates and updates itself daily.
+> 
 
 <br/>
 
@@ -125,8 +125,7 @@ KPI monitoring dashboard with Power BI visualization and PLC/system monitoring c
 <img src="trophy.svg" width="700"/>
 </div>
 
-> ⚙️ Also needs a one-time GitHub Actions setup (see note below) — same idea as the snake, generated locally instead of relying on a live service.
-
+> 
 <br/>
 
 <div align="center">
